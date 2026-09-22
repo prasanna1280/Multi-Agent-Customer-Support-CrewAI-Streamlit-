@@ -1,0 +1,4 @@
+crewai==1.15.22
+crewai-tools==1.15.22
+streamlit==1.64.0
+python-dotenv==1.1.1
