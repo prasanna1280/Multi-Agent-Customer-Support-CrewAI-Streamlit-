@@ -1,0 +1,98 @@
+
+============================================================
+CUSTOMER SUPPORT BUILDATHON
+============================================================
+
+USER QUERY
+------------------------------------------------------------
+how to book a IRCTC train tickets?
+
+ASSISTANT ANSWER
+------------------------------------------------------------
+To book IRCTC train tickets, follow these steps:
+
+1. **Create an Account or Log In**  
+   - Visit the official IRCTC website (www.irctc.co.in) or use the IRCTC Rail Connect mobile app.  
+   - If you are a new user, register by providing your personal details to create an account. If already registered, simply log in with your username and password.
+
+2. **Plan Your Journey**  
+   - Enter the From and To stations, select the date of travel, and click on Find Trains.  
+   - The system will display a list of trains available on your chosen date.
+
+3. **Select Train and Class**  
+   - Choose the train that suits your schedule.  
+   - Select the class of travel (e.g., Sleeper, 3AC, 2AC, 1AC, etc.).
+
+4. **Check Seat Availability**  
+   - Click on Check availability & fare to see seats and ticket price.
+
+5. **Book Tickets**  
+   - Once availability is confirmed, click on Book Now.  
+   - Fill in passenger details such as name, age, gender, and choose berth preferences if desired.  
+   - Provide valid ID details that you will carry during travel.
+
+6. **Make Payment**  
+   - Choose your preferred payment method (credit/debit card, net banking, UPI, mobile wallets, etc.).  
+   - Complete the payment to confirm booking.
+
+7. **Receive Ticket Confirmation**  
+   - Once payment is successful, your ticket will be booked.  
+   - You will get the e-ticket on the website/app and via registered email/SMS.  
+   - You can download or print the ticket.
+
+8. **Travel**  
+   - Carry your ID proof and the ticket (printed or on your phone) during the journey.
+
+Additional Tips:  
+- Its advisable to book tickets as early as possible since trains fill quickly.  
+- You can also use the Tatkal scheme for last-minute bookings but it opens one day before the journey date and has additional charges.  
+- Make sure to verify train timings and platform details before travel.
+
+This is the complete process to book train tickets on IRCTC.
+
+WEB SEARCH ASSISTANT ANSWER
+------------------------------------------------------------
+To book IRCTC train tickets, follow these steps:
+
+1. Create an Account or Log In  
+   - Visit the official IRCTC website (www.irctc.co.in) or use the IRCTC Rail Connect mobile app.  
+   - If you are a new user, register by providing your personal details to create an account. If already registered, simply log in with your username and password.
+
+2. Plan Your Journey  
+   - Enter the From and To stations, select the date of travel, and click on Find Trains.  
+   - The system will display a list of trains available on your chosen date.
+
+3. Select Train and Class  
+   - Choose the train that suits your schedule.  
+   - Select the class of travel (e.g., Sleeper, 3AC, 2AC, 1AC, etc.).
+
+4. Check Seat Availability  
+   - Click on Check availability & fare to see seats and ticket price.
+
+5. Book Tickets  
+   - Once availability is confirmed, click on Book Now.  
+   - Fill in passenger details such as name, age, gender, and choose berth preferences if desired.  
+   - Provide valid ID details that you will carry during travel.
+
+6. Make Payment  
+   - Choose your preferred payment method (credit/debit card, net banking, UPI, mobile wallets, etc.).  
+   - Complete the payment to confirm booking.
+
+7. Receive Ticket Confirmation  
+   - Once payment is successful, your ticket will be booked.  
+   - You will get the e-ticket on the website/app and via registered email/SMS.  
+   - You can download or print the ticket.
+
+8. Travel  
+   - Carry your ID proof and the ticket (printed or on your phone) during the journey.
+
+Additional Tips:  
+- Its advisable to book tickets as early as possible since trains fill quickly.  
+- You can also use the Tatkal scheme for last-minute bookings but it opens one day before the journey date and has additional charges.  
+- Make sure to verify train timings and platform details before travel.
+
+Official IRCTC website for booking: https://www.irctc.co.in/
+
+You can also find video guides on YouTube for booking through the IRCTC website or mobile app that provide step-by-step instructions.
+
+============================================================
